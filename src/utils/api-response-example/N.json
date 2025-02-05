@@ -1,0 +1,112 @@
+{
+  "trainName": "SWATANTRA S EXP",
+  "distance": "937",
+  "reqEnqParam": "12561#SIP#NDLS#SIP#SL",
+  "quota": "GN",
+  "enqClass": "SL",
+  "from": "SIP",
+  "to": "NDLS",
+  "trainNo": "12561",
+  "baseFare": "440",
+  "reservationCharge": "20",
+  "superfastCharge": "30",
+  "fuelAmount": "0.0",
+  "totalConcession": "0",
+  "tatkalFare": "0",
+  "serviceTax": "0.0",
+  "otherCharge": "0",
+  "cateringCharge": "0",
+  "dynamicFare": "0",
+  "totalFare": "490",
+  "travelInsuranceCharge": "0.0",
+  "travelInsuranceServiceTax": "0.0",
+  "insuredPsgnCount": "0",
+  "nextEnqDate": "2024-11-13T00:00:00.000",
+  "timeStamp": "2024-11-07T14:00:35.840",
+  "otpAuthenticationFlag": "0",
+  "cateringFlag": "A",
+  "totalCollectibleAmount": "490.0",
+  "avlDayList": [
+    {
+      "availablityDate": "7-11-2024",
+      "availablityStatus": "TRAIN DEPARTED",
+      "reasonType": "W",
+      "availablityType": "0",
+      "currentBkgFlag": "Y",
+      "wlType": "8224",
+      "delayFlag": "N",
+      "delay": "0"
+    },
+    {
+      "availablityDate": "8-11-2024",
+      "availablityStatus": "RLWL94/WL27",
+      "reasonType": "S",
+      "availablityType": "3",
+      "currentBkgFlag": "N",
+      "wlType": "12",
+      "delayFlag": "N",
+      "delay": "0"
+    },
+    {
+      "availablityDate": "9-11-2024",
+      "availablityStatus": "RLWL104/WL46",
+      "reasonType": "S",
+      "availablityType": "3",
+      "currentBkgFlag": "N",
+      "wlType": "12",
+      "delayFlag": "N",
+      "delay": "0"
+    },
+    {
+      "availablityDate": "10-11-2024",
+      "availablityStatus": "RLWL98/WL65",
+      "reasonType": "S",
+      "availablityType": "3",
+      "currentBkgFlag": "N",
+      "wlType": "12",
+      "delayFlag": "N",
+      "delay": "0"
+    },
+    {
+      "availablityDate": "11-11-2024",
+      "availablityStatus": "RLWL82/WL48",
+      "reasonType": "S",
+      "availablityType": "3",
+      "currentBkgFlag": "N",
+      "wlType": "12",
+      "delayFlag": "N",
+      "delay": "0"
+    },
+    {
+      "availablityDate": "12-11-2024",
+      "availablityStatus": "RLWL66/WL41",
+      "reasonType": "S",
+      "availablityType": "3",
+      "currentBkgFlag": "N",
+      "wlType": "12",
+      "delayFlag": "N",
+      "delay": "0"
+    }
+  ],
+  "informationMessage": [
+    {
+      "message": "* IR recovers only 57% of cost of travel on an average.\n* Rounding off  to next multiple of Rs. 5 is included in Base fare.\n* Final fare based on passenger(s) added will be displayed on REVIEW JOURNEY page including concessions / dynamic fare charges etc. whichever applicable.\n",
+      "popup": "false",
+      "paramName": "FARE_BREAKUP"
+    },
+    {
+      "message": "Forgo Concession Opted",
+      "popup": "false",
+      "paramName": "FORGO_CONC"
+    }
+  ],
+  "reTry": "false",
+  "altAvlEnabled": "false",
+  "altTrainEnabled": "false",
+  "altClsEnabled": "false",
+  "taRdsFlag": "false",
+  "upiRdsFlag": "false",
+  "rdsTxnPwdFlag": "false",
+  "ftBookingMsgFlag": "false",
+  "lastUpdateTime": "6 Minutes and 41 Seconds"
+}
